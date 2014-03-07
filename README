@@ -1,14 +1,7 @@
-Name: Greybird
-Summary: Desktop Suite for Xfce.
-URL: http://shimmerproject.org/projects/greybird/
+Korora desktop suite for Gnome, KDE, Xfce, Cinnamon and MATE.
 
-Copyright 2009–2012 Simon Steinbeiß and Satyajit Sahoo
-Greybird is dual-licensed as GPLv2 or later and CC-BY-SA 3.0 or later.
-
-Desktop Suite for Xfce.
-Greybird is the default theme in Xubuntu 11.04 onwards.
-
-The Greybird desktop suite includes:
+The Korora desktop suite includes:
+- Gnome Shell theme
 – GTK2 theme
 – GTK3 theme
 – Xfwm4 themes (normal and compact)
@@ -16,9 +9,13 @@ The Greybird desktop suite includes:
 – Emerald theme
 – Metacity theme
 – Mutter theme
-– Xubuntu 11.04 wallpaper (svg and png)
 – Unity support
 
-Dependencies of gtk3.2-branch (for Gtk3.2)
-– gtk2-engines-murrine (v0.90)
-- gtk3-engines-unico (v1.0.1)
+Based on:
+  - Greybird - http://shimmerproject.org/projects/greybird/
+  - Google+
+
+Korora inherits Greybird's dual-licensed as GPLv2 or later and CC-BY-SA 3.0 or later.
+
+Copyright 2014      Korora Project
+Copyright 2009–2012 Simon Steinbeiß and Satyajit Sahoo
