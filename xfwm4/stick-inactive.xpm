@@ -24,7 +24,7 @@ static char * stick_inactive_xpm[] = {
 "^	c #C9C8C8",
 "/	c #CBCCCB",
 "(	c #CBCBCB",
-"_	c #CECECE",
+"_	c #E3E3E3",
 "....................",
 "++++++++++++++++++++",
 "@@@@@@@@@@@@@@@@@@@@",

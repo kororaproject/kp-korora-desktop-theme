@@ -25,7 +25,7 @@ static char * close_inactive_xpm[] = {
 "/	c #CDCDCD",
 "(	c #C4C4C4",
 "_	c #C5C5C5",
-":	c #CECECE",
+":	c #E3E3E3",
 "<	c #E9E9E9",
 "[	c #DDDDDD",
 "}	c #DCDCDC",

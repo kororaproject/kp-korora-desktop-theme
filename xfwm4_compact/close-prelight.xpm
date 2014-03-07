@@ -5,7 +5,7 @@ static char * close_prelight_xpm[] = {
 ".	c #939393",
 "+	c #FFFFFF",
 "@	c #DEDEDE s active_color_2",
-"#	c #CECECE",
+"#	c #E3E3E3",
 "$	c #7F7F7F",
 "%	c #D1D1D1",
 "&	c #CFCFCF",
